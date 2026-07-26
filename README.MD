@@ -1,11 +1,29 @@
 # Papyrune (The Roaring Knight Mod)
 > **Tagline:** *Men in Black meets Deltarune. Don't sue me plz.*
 
+WELCOME HUMAN!!! I SEE THAT SANS HAS SOME PUZZLES FOR YOU!!! FIND IT AND YOU CAN GET THE CODES FOR MANY THINGS IN MY GAME papyrune!!!! GOOD LUCK HUMAN!!!!
+
+---
+
+## 👁️ Secret ARG Code Puzzle
+
+Deep within the logs of this system, encrypted transmissions are waiting to be broken. If you have the patience and the logic, you can decode them to find hidden data blocks.
+
+### 📜 TRANSMISSION 1 (Openly Decrypted):
+`"THE OCEAN IS A SOUP"`
+
+*   **Your Clue for Code 2:** To break the firewall, seek out moving visual broadcasts of this phrase on "youtoo" (YouTube). Locate the specific Undertale animation broadcast of this phrase. Find its unique video string ID from the broadcast URL. 
+*   Once you match that case-sensitive alphanumeric password, use it to open the corresponding `.txt` file inside this repository to unlock the deep network ciphers!
+
+---
+
+## 🧭 About the Game
+
 A standalone playable chunk of Deltarune featuring an alternate endgame boss encounter. Designed for players to download and play immediately—no completed game saves or patience required.
 
 ---
 
-## 🧭 The Three Routes
+## 🛣️ The Three Routes
 
 ### 🌟 Route 1: Pacifist (The Reveal & The Titan Loop)
 * **The Flow:** Standard battle encounters where you attempt to act or spare. If you select **[FIGHT]**, the Knight escalates the timeline. 
@@ -33,12 +51,10 @@ If you are generating assets via AI (like Midjourney, Retro Diffusion, or DALL-E
 
 *   **The Base Knight (Papyrus):** 
     *   *Description:* A tall, thin, lanky skeleton character encased in massive, dark, heavy medieval knight armor. 
-    *   *Style:* Clean dark outlines, a solid dark purple/black color palette, and glowing white eyes hidden inside the helmet visor. 
     *   *Canvas:* 64x96 pixels (isolated on a transparent background).
 
 *   **The Roaring Titan:** 
     *   *Description:* A gargantuan, world-ending boss monster made of stone, ancient brick, and swirling dark fountain energy. 
-    *   *Style:* Heavy 16-bit textures, jagged silhouettes, and immense glowing neon red eyes. Should look like a massive mech suit that Papyrus can pilot.
     *   *Canvas:* 256x256 or 512x512 pixels (isolated on a transparent background).
 
 *   **Sans (Shopping Bags Drop Animation):** 
@@ -55,7 +71,7 @@ The underlying code logic handling these routes can be found in the accompanying
 ## ⚖️ Legal Disclaimer (don't sue me plz)
 
 *   **Deltarune:** This is a non-profit, fan-made standalone mod. All characters like Sans, Papyrus, and the world of Deltarune belong entirely to Toby Fox and the Deltarune Team. Please support the official release!
-*   **Men in Black:** The "Memory Eraser" mechanics and concepts used by Sans are a direct parody of and homage to the "Neuralyzer" device from the *Men in Black* franchise (Sony Pictures / Columbia Pictures). No copyright infringement is intended. This project is built entirely for fun and free community entertainment.
+*   **Men in Black & Hazbin Hotel:** Parody mechanics and lyric references utilized as an explicit homage to the *Men in Black* franchise (Sony) and *Hazbin Hotel* (A24/SpindleHorse). Built entirely for free community entertainment under fair use.
 
 ---
 
