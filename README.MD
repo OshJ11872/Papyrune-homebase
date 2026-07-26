@@ -2,7 +2,8 @@
 > **Tagline:** *Men in Black meets Deltarune. Don't sue me plz.*
 
 WELCOME HUMAN!!! I SEE THAT SANS HAS SOME PUZZLES FOR YOU!!! FIND IT AND YOU CAN GET THE CODES FOR MANY THINGS IN MY GAME papyrune!!!! GOOD LUCK HUMAN!!!!
-
+Thats enough Papyrus... Well he already said what we wanted to hear, but before you go forward I will give you a code for my new game: THEOCEANISASOUP 
+If you want more... try solving this puzzle. -OJ, the Creator. 
 ---
 
 ## 👁️ Secret ARG Code Puzzle
