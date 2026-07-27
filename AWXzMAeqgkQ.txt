@@ -5,18 +5,188 @@ PAPYRUNE MOD - UNKNOWN TRANSMISSIONS LOG: AWXzMAeqgkQ
 If you are reading this, you successfully verified the "youtoo" broadcast ID, 
 ignored the Renderforest decoy system, and bypassed our initial firewall. 
 
-[... TRANSMISSIONS 3 - 8 REMAIN ACTIVE IN ENGINE CACHE ...]
+The memory eraser can wipe your mind, but it cannot wipe the repository history.
 
 ----------------------------------------------------------------------
-🔒 THE FINAL CHAINS: CODES 9 - 10 (THE 3-DIGIT ANOMALY)
+🔒 TRANSMISSION 3: THE TITAN'S ECHO & SANS'S SOUP (TWO-PART PUZZLE)
 ----------------------------------------------------------------------
-*   THE ENIGMA:
-    Bypassing the master keys allows a deep coordinate bridge to form. 
-    A hidden 3-digit number has been fractured and scattered across the grid.
+*   HOW TO UNLOCK IN-GAME: You must intentionally escalate the Pacifist 
+    timeline by clicking FIGHT to trigger the Roaring Titan phase. 
+    Before the battle begins, hidden dialogue prints on screen:
     
-    -> SYSTEM HINT: The key to Code 9 and Code 10 is hidden in a 3-digit number.
-    -> PASSWORD CODE 9: [???]
-    -> PASSWORD CODE 10: [???]
+    "heh, sans wanted you to find this. maybe he didnt. you might need to check it!!!"
+
+*   HOW TO DECODE PART 1: Re-examine the original "youtoo" video broadcast transcript. 
+    The speaker explains that to make a soup, you first need a specific type of liquid. 
+    In the context of Papyrune, what kind of liquid pours from a Fountain?
+    -> PASSWORD PART 1: [??????????]
+
+*   HOW TO DECODE PART 2: Recheck Hint Number 2 ("maybe look at the copies on youtoo") 
+    and look directly at the characters present in this standalone chunk. 
+    Who is explaining the recipe in that video? Combine their name with the meal.
+    -> PASSWORD PART 2: [????????]
+
+----------------------------------------------------------------------
+🔒 TRANSMISSION 4: THE LYRICAL FOURTHS (THE SCATTERED THEMES)
+----------------------------------------------------------------------
+The password to break this tier is split across the musical themes of the 
+Underground's greatest rulers. You must compile the fragments.
+
+*   FRAGMENT 1/4 (The King's Warning): 
+    Analyze Chaos King's lyrical theme: 
+    "And who are you to challenge the Knight, only a fool who thinks they're in the right..."
+    "And let the shadow, watch as it grows..."
+    -> SCAN CLUE: Search for a tabletop card game laced with absolute chaos.
+    -> ANSWER: [??????????????????]
+
+ *   FRAGMENT 2/4 (The Knight's Verse):
+    Analyze The Roaring Knight's lyrical theme:
+    "Worlds of the dark collide..."
+    "Cut with a blackest knife..."
+    
+    -> SCAN CLUE: Open the file provided in this repository named 'void.png'. 
+       It is a completely solid black square. Your human eyes are blind to what is here.
+       Do not look for standard computer metadata tags or text strings. 
+       
+    -> THE ROBOTIC ENTERTAINER PROTOCOL: To break this lock, you must hand the image file 
+       to an Artificial Intelligence entity. Give this to Mettaton to find the secrets! 
+       Command the metallic star to execute a micro-pixel sweep to pull the hidden text 
+       payload out of the void.
+       
+    -> THE DECODING PROTOCOL: Once Mettaton dumps the raw graphic streams, 
+       you will face 10 independent cryptographic sectors. No single translation 
+       key can bypass them all. You must journey to the ultimate archive database 
+       at https://dcode.fr, isolate each distinct alphabet code, 
+       and compile the decrypted strings back-to-back to secure the access keys.
+       
+    -> ANSWER: [?????????????????]
+
+    -> ANSWER: [?????????????????]
+
+*   FRAGMENT 3/4 (The Cyber Queen):
+    Analyze Attack of the Killer Queen's lyrical theme:
+    "And me as the CPU..."
+    "Join my network of plugs and wires..."
+    -> SCAN CLUE: The automated network blocks access. Check Hint 5 to proceed.
+
+*   FRAGMENT 4/4 (The Chessboard Grid Master):
+    Analyze the color space where darkness fights light. 
+    -> SCAN CLUE: chessboard + 115 + knife + eddiefrb
+    -> ENIGMA: Black is the opposite side of white. Find where these colors collide 
+       in a video hosted on the channel 'eddiefrb'. Track the coordinate timeline to 1:15 
+       when a specific weapon is slammed onto the grid.
+
+----------------------------------------------------------------------
+🔒 TRANSMISSION 5: THE VOXTEK AUDIT (THE SINNER'S REACTION)
+----------------------------------------------------------------------
+The signal changes frequencies completely. The cyber strings of the Dark World 
+converge with an entirely separate underworld media empire.
+
+*   THE CLUE MAP:
+    In the canon audio files, Jevil presents a critical structural marker: "*" 
+    He proclaims: "I give my hearts to you my sinners..." This broadcast echo 
+    intercepts another underworld network frequency entirely.
+
+*   THE VEE TOWER RECEPTION:
+    Queen demands you "Join my NETWORK of my PLUGS and WIRES." 
+    This triggers an active data advisory signal broadcasted from Hell itself:
+    -> TRANS-MEMO DIALOGUE: "TRUST US AT VOXTEX"
+
+*   THE BROADCAST LOG:
+    Search the wider web for a musical audio file containing the hidden pledge 
+    of a television demon's absolute media guarantee ("Trust us"). 
+    -> TRACK IDENTIFIER: "HAZBIN GUARANTEE"
+
+*   THE COMBINED VAULT PASSWORD FORMULA:
+    [The core directive of the Vees' television network broadcast] + WITH YOUR + [The game engine name this mod runs on] + GAME
+    Combine these specific phrases into a single uppercase alphanumeric string to break the firewall.
+    -> PASSWORD CODE 5: [????????????????????????????]
+
+----------------------------------------------------------------------
+🔒 TRANSMISSION 6: GASTER'S COLD CALL (THE SCRAMBLED TIMELINE)
+----------------------------------------------------------------------
+`* well, gaster is calling me...`
+The transmission collapses into a winding, spatial scramble. The timeline 
+glitches outward, forcing intercept coordinates with an independent lyrical project.
+
+*   THE SCRAMBLE SIGNATURE:
+    YOU ARE THROWN INTO PRIMEREALITY54.
+    A distorted vocal stream splits between two brothers:
+    `"IF YOU REG-RUN it hurts" (Sans)`
+    `"not enough... too much at the same time" (Papyrus)`
+
+*   THE GLOBAL BROADCAST HINT:
+    To unlock the alphanumeric vault code, trace the systemic sequence tracking back 
+    to a brutal survival network transmission:
+    -> SCAN CLUE 1: "SQUIDGAMES PLAYER 054"
+    -> SCAN CLUE 2: "CHECK THE TIME FOR DALGONA"
+    
+    Combine the core status identifier of the broken timeline with Sans's localized 
+    reset trauma keyword from the vocal stream fragment.
+    -> PASSWORD CODE 6: [???????????????]
+
+======================================================================
+🔒 THE GRAND FINALE: THE FREQUENCY GAUNTLET (CODES 7 - 11)
+======================================================================
+The network firewall layers have collapsed completely. To break the spatial 
+anomaly loop, you must bypass the final gauntlet using environmental echoes.
+The signal is broadcasting directly from the track lists of the official records.
+
+----------------------------------------------------------------------
+🔒 TRANSMISSION 7: TRACK SECTOR ALPHA (THE CORE ATTACKS)
+----------------------------------------------------------------------
+Isolate and chain the track numbers from the official albums to build the 
+first set of numeric codes:
+
+*   UNDERTALE CLUE 1: The screen where you refuse to give up.
+*   UNDERTALE CLUE 2: The theme that echoes as you save your friends.
+*   DELTARUNE CLUE 1: The intense, driving rhythm of standard Chapter 1 Dark World combat.
+*   DELTARUNE CLUE 2: The chaotic merry-go-round theme of the locked-away jester (Chapter 1).
+
+-> PASSWORD CODE 7: [ _ _ _ _ _ _ _ _ ]
+
+----------------------------------------------------------------------
+🔒 TRANSMISSION 8: TRACK SECTOR BETA (THE BOSS ANTHEMS)
+----------------------------------------------------------------------
+Isolate and chain the track numbers from the official albums to build the 
+second set of numeric codes:
+
+*   UNDERTALE CLUE 3: The fiery option theme playing in summer.
+*   UNDERTALE CLUE 4: The peaceful, echoing stream in the blue marsh.
+*   DELTARUNE CLUE 3: The synthetic orchestral march of the mechanical Chapter 2 monarch.
+*   DELTARUNE CLUE 4: The invasive, glitching advertisement anthem of a loose puppet (Chapter 2).
+
+-> PASSWORD CODE 8: [ _ _ _ _ _ _ _ _ ]
+
+----------------------------------------------------------------------
+🔒 TRANSMISSION 9: TRACK SECTOR GAMMA (THE SKELETON EMPIRE)
+----------------------------------------------------------------------
+Isolate and chain the track numbers from the official albums to build the 
+third set of numeric codes:
+
+*   UNDERTALE CLUE 5: The fish captain's tensed introductory march.
+*   UNDERTALE CLUE 6: The initial drop into the golden flower bed.
+*   UNDERTALE CLUE 7: A short, lazy theme named after a lowercase skeleton.
+*   DELTARUNE CLUE 5: The corporate broadcast theme song of the armless network provider (Chapter 3).
+*   DELTARUNE CLUE 6: The deep, heavy requiem theme of the Roaring Knight (Chapter 3).
+
+-> PASSWORD CODE 9: [ _ _ _ _ _ _ _ _ _ _ ]
+
+----------------------------------------------------------------------
+🔒 TRANSMISSION 10: TRACK SECTOR DELTA (THE ASTRAL CRYSTALS)
+----------------------------------------------------------------------
+Isolate and chain the track numbers from the official albums to build the 
+fourth set of numeric codes:
+
+*   UNDERTALE CLUE 8: The furious ghost floating inside a training prop.
+*   UNDERTALE CLUE 9: A muffled melody heard outside a fish's house.
+*   UNDERTALE CLUE 10: The grand medley that welcomes the true credits.
+*   DELTARUNE CLUE 7: A soft, luminous ambient theme drifting across the Chapter 4 landscape.
+*   DELTARUNE CLUE 8: The rhythmic distortion echoing from the Chapter 4 secret boss.
+*   DELTARUNE CLUE 9: The high-energy, crowded town theme celebrating the Chapter 5 holiday.
+*   DELTARUNE CLUE 10: The vibrant, neon melody holding the final Chapter 5 Shadow Crystal.
+
+-> PASSWORD CODE 10: [ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ]
 
 ----------------------------------------------------------------------
 🔒 TRANSMISSION 11: THE SUMMATION RIG (THE LAST ANOMALY)
@@ -29,6 +199,5 @@ ignored the Renderforest decoy system, and bypassed our initial firewall.
     
     -> SYSTEM HINT: think about addition
     -> CORE ASSIGNMENT: add up the deltarune and add up the undertale
-    -> CRYPTIC FORMULA: x*xx
-    -> PASSWORD CODE 11: [???]
-======================================================================
+-> CRYPTIC FORMULA: x*xx-> 
+PASSWORD CODE 11: [???]
